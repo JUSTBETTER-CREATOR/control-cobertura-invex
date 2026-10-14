@@ -1,0 +1,36 @@
+__pycache__/
+.venv/
+.env
+inputs/
+*.xlsx
+.private/
+config.local.json
+logs/
+.build-deps/
+
+configuracion/
+previews/
+*.xlsm
+*.xlsb
+
+# Seguridad y sesiones
+.browser-profile/
+.browser-profiles/
+browser-profile/
+browser_profiles/
+*.log
+*.csv
+*.zip
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Configuracion local
+config.local.*
+.env.*
+secrets.*
+credentials.*
